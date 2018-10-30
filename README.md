@@ -1,6 +1,6 @@
-# Workshop: Intro to Open Source 🚀
-
-This repo is for our Women Who Code 2017 Intro to Contributing to Open Source Workshop. This repo serves as a safe test space for those who wish to practice git, making pull requests and responding to issues.
+﻿# Workshop:Introduction to Open Source 🚀
+  
+This repository is for our Women Who Code 2017 Introduction to Contributing to Open Source Workshop. This repo serves as a safe test space for those who wish to practice git, making pull requests and responding to issues.
 
 ## Workshop Agenda
  - Overviewing GitHub and Releases
